@@ -1,0 +1,452 @@
+{
+  "CLAUDE.md": {
+    "zh": "CLAUDE.zh-CN.md",
+    "blob": "cc3dbb34289bc045a896675bc71cca7bd8613c5b",
+    "commit": "a496f5513d4a"
+  },
+  "GLOSSARY.md": {
+    "zh": "GLOSSARY.zh-CN.md",
+    "blob": "76ebd23dbb8266dab9491425b39f3c4857fb4a52",
+    "commit": "a496f5513d4a"
+  },
+  "README.md": {
+    "zh": "README.zh-CN.md",
+    "blob": "f7038f139299985eea6c3e18398dbafb379a0010",
+    "commit": "a496f5513d4a"
+  },
+  "SCOPE.md": {
+    "zh": "SCOPE.zh-CN.md",
+    "blob": "2f09e43ee39df11557aea4f23e613b163ec5f628",
+    "commit": "a496f5513d4a"
+  },
+  "docs/agents/triage-labels.md": {
+    "zh": "docs/agents/triage-labels.zh-CN.md",
+    "blob": "6f223d54f1e1a07056ddf09972a0704c6256d913",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/ask-matt.md": {
+    "zh": "docs/engineering/ask-matt.zh-CN.md",
+    "blob": "d5e2830bd75078dd91754a0f7f426541e7a3ced8",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/code-review.md": {
+    "zh": "docs/engineering/code-review.zh-CN.md",
+    "blob": "12283d7f86d73f91030f6ff6ffe1c5ad6c5831e8",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/codebase-design.md": {
+    "zh": "docs/engineering/codebase-design.zh-CN.md",
+    "blob": "bf2fa9d0e31c63e5faf655c4b13f85f650c979d5",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/diagnosing-bugs.md": {
+    "zh": "docs/engineering/diagnosing-bugs.zh-CN.md",
+    "blob": "a92bd56a0fcf7485e954958d46a5bf34573ca33d",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/domain-modeling.md": {
+    "zh": "docs/engineering/domain-modeling.zh-CN.md",
+    "blob": "35fba8e211ae704c4110c3ec26d81cd8d9fcf3f1",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/grill-with-docs.md": {
+    "zh": "docs/engineering/grill-with-docs.zh-CN.md",
+    "blob": "9ba50958efc3928cde01662701c53b7935cdbb1e",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/implement-spec.md": {
+    "zh": "docs/engineering/implement-spec.zh-CN.md",
+    "blob": "771a7ca285be1c474e91014d384b748b36f99709",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/implement.md": {
+    "zh": "docs/engineering/implement.zh-CN.md",
+    "blob": "b08985c7fcc951ad3ec0812914073852e2449210",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/improve-codebase-architecture.md": {
+    "zh": "docs/engineering/improve-codebase-architecture.zh-CN.md",
+    "blob": "974ae0aa708f66d90a7acd1ceed181836e276a04",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/pr.md": {
+    "zh": "docs/engineering/pr.zh-CN.md",
+    "blob": "368394b2dbbb0930a7fdf5c4ff3a19142dd54a76",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/prototype.md": {
+    "zh": "docs/engineering/prototype.zh-CN.md",
+    "blob": "c6e23539b47ff40f8405e3163d5e42711f99d1b6",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/research.md": {
+    "zh": "docs/engineering/research.zh-CN.md",
+    "blob": "29ab8d3dbd2ff838d50f3c637e5c32ceee3fe6ce",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/resolving-merge-conflicts.md": {
+    "zh": "docs/engineering/resolving-merge-conflicts.zh-CN.md",
+    "blob": "4b277f95db47425b38a06c0f5b69c8e2a5795bfa",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/retro.md": {
+    "zh": "docs/engineering/retro.zh-CN.md",
+    "blob": "442599e9c42cc5fd86ea474eb800e9664eb902fd",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/setup-matt-pocock-skills.md": {
+    "zh": "docs/engineering/setup-matt-pocock-skills.zh-CN.md",
+    "blob": "4b255af85948cad4caab93484a186b0ed05edf4c",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/tdd.md": {
+    "zh": "docs/engineering/tdd.zh-CN.md",
+    "blob": "6fd8a5c722c75de1207b30d66874e969b65b5a30",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/to-spec.md": {
+    "zh": "docs/engineering/to-spec.zh-CN.md",
+    "blob": "824cd18204f4a39c50ada128c27675b35bc59b7e",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/to-tickets.md": {
+    "zh": "docs/engineering/to-tickets.zh-CN.md",
+    "blob": "8b93a6d4c56e4c398e6ab3defd6da1552c784599",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/triage.md": {
+    "zh": "docs/engineering/triage.zh-CN.md",
+    "blob": "0b20a8eee7f3472ef664f7f8a7569608dd5bc8e0",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/wayfinder.md": {
+    "zh": "docs/engineering/wayfinder.zh-CN.md",
+    "blob": "607f6556d56bc1b96b86baba442cc9cda451ba93",
+    "commit": "a496f5513d4a"
+  },
+  "docs/engineering/wizard.md": {
+    "zh": "docs/engineering/wizard.zh-CN.md",
+    "blob": "b4e76b686379507717f05caf41f3dfa73924bd79",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/grill-me.md": {
+    "zh": "docs/productivity/grill-me.zh-CN.md",
+    "blob": "65aec2448e4c27187455965336bd3b767b8ffa47",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/grilling.md": {
+    "zh": "docs/productivity/grilling.zh-CN.md",
+    "blob": "eff7c56a3eb64285f17dd0759aadd27ca23ae82a",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/handoff.md": {
+    "zh": "docs/productivity/handoff.zh-CN.md",
+    "blob": "d106b37e9fcb0ef9e7765be5a62f28451ac62fc8",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/teach.md": {
+    "zh": "docs/productivity/teach.zh-CN.md",
+    "blob": "dac7e1422c9342444e8b40e2757f81c569c69d48",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/to-questionnaire.md": {
+    "zh": "docs/productivity/to-questionnaire.zh-CN.md",
+    "blob": "e4f40f4b2370d095fa6987325192eaa2cda2ac2e",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/wait-what.md": {
+    "zh": "docs/productivity/wait-what.zh-CN.md",
+    "blob": "38384d7918b151f41ecf5fd731066e2f7c3c6e75",
+    "commit": "a496f5513d4a"
+  },
+  "docs/productivity/writing-for-agents.md": {
+    "zh": "docs/productivity/writing-for-agents.zh-CN.md",
+    "blob": "b8604e71aea05be04590690e46af13c620432437",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/README.md": {
+    "zh": "skills/engineering/README.zh-CN.md",
+    "blob": "381c82ac4e54427ba73d0569fdf712187ddcc724",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/ask-matt/PHASE-BOUNDARIES.md": {
+    "zh": "skills/engineering/ask-matt/PHASE-BOUNDARIES.zh-CN.md",
+    "blob": "fb58ef9febcfd558cdb4517e370f19034869ba26",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/ask-matt/SKILL.md": {
+    "zh": "skills/engineering/ask-matt/SKILL.zh-CN.md",
+    "blob": "4bfeeb61dae548b8b7754c4fba7bd40ab3926099",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/code-review/SKILL.md": {
+    "zh": "skills/engineering/code-review/SKILL.zh-CN.md",
+    "blob": "83183e0ad36fd0eef25d37c7e483284b7e34c1f0",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/codebase-design/DEEPENING.md": {
+    "zh": "skills/engineering/codebase-design/DEEPENING.zh-CN.md",
+    "blob": "cd94075cfd754d147555c5d747a16431ed4c7dd8",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/codebase-design/DESIGN-IT-TWICE.md": {
+    "zh": "skills/engineering/codebase-design/DESIGN-IT-TWICE.zh-CN.md",
+    "blob": "aebdc9f8c05b40d7832de38e2fd8380e1e5507ac",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/codebase-design/SKILL.md": {
+    "zh": "skills/engineering/codebase-design/SKILL.zh-CN.md",
+    "blob": "3f63c8146dd2604b419c929e9876b90c30d410e9",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/diagnosing-bugs/SKILL.md": {
+    "zh": "skills/engineering/diagnosing-bugs/SKILL.zh-CN.md",
+    "blob": "d039541ddd1c46e6ddbd662fe99d49b686fc5e12",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/domain-modeling/ADR-FORMAT.md": {
+    "zh": "skills/engineering/domain-modeling/ADR-FORMAT.zh-CN.md",
+    "blob": "d7e61f30a9fd8ca70d9ee68f019c2a9ebf2d13f7",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/domain-modeling/GLOSSARY-FORMAT.md": {
+    "zh": "skills/engineering/domain-modeling/GLOSSARY-FORMAT.zh-CN.md",
+    "blob": "9c0b4c7a2e8507c23cbb5e0baa66d81699321cc6",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/domain-modeling/SKILL.md": {
+    "zh": "skills/engineering/domain-modeling/SKILL.zh-CN.md",
+    "blob": "a4438c6879c517d1a08e2b5fbca049b632688dfe",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/grill-with-docs/SKILL.md": {
+    "zh": "skills/engineering/grill-with-docs/SKILL.zh-CN.md",
+    "blob": "62b9efb6f991d1b229adee7506962f13ced0c499",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/implement-spec/SKILL.md": {
+    "zh": "skills/engineering/implement-spec/SKILL.zh-CN.md",
+    "blob": "73d36c23958bd04423ba3ded1c90ff0d0b858b72",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/implement/SKILL.md": {
+    "zh": "skills/engineering/implement/SKILL.zh-CN.md",
+    "blob": "bd49e472984c7b99aac40286fdae749bb955a842",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/improve-codebase-architecture/HTML-REPORT.md": {
+    "zh": "skills/engineering/improve-codebase-architecture/HTML-REPORT.zh-CN.md",
+    "blob": "e39e8255b8797cf8257d014fb6658fb533f3a399",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/improve-codebase-architecture/SKILL.md": {
+    "zh": "skills/engineering/improve-codebase-architecture/SKILL.zh-CN.md",
+    "blob": "f1eabb568464f03ae79a3346fc1918fdde6d8285",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/pr/CREDITS.md": {
+    "zh": "skills/engineering/pr/CREDITS.zh-CN.md",
+    "blob": "5314bda2fa6005e264c9b5c1de7c425e719dc91f",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/pr/SKILL.md": {
+    "zh": "skills/engineering/pr/SKILL.zh-CN.md",
+    "blob": "84dd4fb2f068e9f6282690235d20dd505b418119",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/prototype/LOGIC.md": {
+    "zh": "skills/engineering/prototype/LOGIC.zh-CN.md",
+    "blob": "32be86a0a5d9928db84b3988e55f9debe476ab40",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/prototype/SKILL.md": {
+    "zh": "skills/engineering/prototype/SKILL.zh-CN.md",
+    "blob": "a0044501fe0d385b4d8575b610188ede9b236ccf",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/prototype/UI.md": {
+    "zh": "skills/engineering/prototype/UI.zh-CN.md",
+    "blob": "3977951663490882c2632b40695d9f59a2fe2408",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/research/SKILL.md": {
+    "zh": "skills/engineering/research/SKILL.zh-CN.md",
+    "blob": "ffc9eb89849cc4cf74962ce93d786ffd17c6a5dc",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/retro/SKILL.md": {
+    "zh": "skills/engineering/retro/SKILL.zh-CN.md",
+    "blob": "12149acf2dd23b4514dec57b04a6293eaa1352fa",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/SKILL.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/SKILL.zh-CN.md",
+    "blob": "2df0b07981718fa5d9a51526dfbcaee87e3a543d",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/domain.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/domain.zh-CN.md",
+    "blob": "4032de016c1e91119d33d477633e2b8f265f4195",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/issue-tracker-github.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/issue-tracker-github.zh-CN.md",
+    "blob": "dc806f5655ae34c1701170f98208e5fb5dba7045",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/issue-tracker-gitlab.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/issue-tracker-gitlab.zh-CN.md",
+    "blob": "1aeb5d04fadd9b7240e3f70dff20a758a1c729ea",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/issue-tracker-local.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/issue-tracker-local.zh-CN.md",
+    "blob": "0209a19af92c9c485cf3acc3d9e253171517ea17",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/setup-matt-pocock-skills/triage-labels.md": {
+    "zh": "skills/engineering/setup-matt-pocock-skills/triage-labels.zh-CN.md",
+    "blob": "5276464244857a3cc29890ff4a978a197b21f3fc",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/tdd/SKILL.md": {
+    "zh": "skills/engineering/tdd/SKILL.zh-CN.md",
+    "blob": "01eadaa34e7c9a63a67d6dc3cce1cc81b0e49985",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/tdd/mocking.md": {
+    "zh": "skills/engineering/tdd/mocking.zh-CN.md",
+    "blob": "71cbfee674d93244ce81d1830b930ca9a69200bd",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/tdd/tests.md": {
+    "zh": "skills/engineering/tdd/tests.zh-CN.md",
+    "blob": "7ab86479f925a1f9e8ba680af33cb3b12e015381",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/to-spec/SKILL.md": {
+    "zh": "skills/engineering/to-spec/SKILL.zh-CN.md",
+    "blob": "3f52599ae2a4347aee5a07432c2707518e691a7f",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/to-tickets/SKILL.md": {
+    "zh": "skills/engineering/to-tickets/SKILL.zh-CN.md",
+    "blob": "9b77a01db9460c99c22d03c910c349f890f12c0e",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/triage/AGENT-BRIEF.md": {
+    "zh": "skills/engineering/triage/AGENT-BRIEF.zh-CN.md",
+    "blob": "1462fcd9e8cc21921158c296149dc05d9be39d20",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/triage/OUT-OF-SCOPE.md": {
+    "zh": "skills/engineering/triage/OUT-OF-SCOPE.zh-CN.md",
+    "blob": "c9fba2f77ee0619975ec8488c0d4861a0c7e3151",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/triage/SKILL.md": {
+    "zh": "skills/engineering/triage/SKILL.zh-CN.md",
+    "blob": "3fd5617e906cf9b71a6b17424791adb905fc248b",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/wayfinder/SKILL.md": {
+    "zh": "skills/engineering/wayfinder/SKILL.zh-CN.md",
+    "blob": "975d6bf9c0a49d18a651f3335e0b4dcf8650fe31",
+    "commit": "a496f5513d4a"
+  },
+  "skills/engineering/wizard/SKILL.md": {
+    "zh": "skills/engineering/wizard/SKILL.zh-CN.md",
+    "blob": "c4294ad8298b9b95fc727496b1b802b1f7363fba",
+    "commit": "a496f5513d4a"
+  },
+  "skills/misc/README.md": {
+    "zh": "skills/misc/README.zh-CN.md",
+    "blob": "6b169d22be12c078f1e70763d367fe693de342e2",
+    "commit": "a496f5513d4a"
+  },
+  "skills/misc/git-guardrails-claude-code/SKILL.md": {
+    "zh": "skills/misc/git-guardrails-claude-code/SKILL.zh-CN.md",
+    "blob": "58bcdd875b164093b95f436fa32a65c6cb5eb572",
+    "commit": "a496f5513d4a"
+  },
+  "skills/misc/migrate-to-shoehorn/SKILL.md": {
+    "zh": "skills/misc/migrate-to-shoehorn/SKILL.zh-CN.md",
+    "blob": "ae4f965e204fc93cedbc4e2c306e92829d93f800",
+    "commit": "a496f5513d4a"
+  },
+  "skills/misc/scaffold-exercises/SKILL.md": {
+    "zh": "skills/misc/scaffold-exercises/SKILL.zh-CN.md",
+    "blob": "d87df28e7d8abb4e57ecc6e47d71c274d16054c7",
+    "commit": "a496f5513d4a"
+  },
+  "skills/misc/setup-pre-commit/SKILL.md": {
+    "zh": "skills/misc/setup-pre-commit/SKILL.zh-CN.md",
+    "blob": "1b9708168263067adb4684d06ebb8f4ccfe9682c",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/README.md": {
+    "zh": "skills/productivity/README.zh-CN.md",
+    "blob": "6fd3754541f59ef90b420f51603cc061f92f9b7e",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/grill-me/SKILL.md": {
+    "zh": "skills/productivity/grill-me/SKILL.zh-CN.md",
+    "blob": "3947ff9c4ad980d14fc07fccbf659d47c114e81d",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/grilling/SKILL.md": {
+    "zh": "skills/productivity/grilling/SKILL.zh-CN.md",
+    "blob": "d2f09a18e6a6c65c55f1271ba08dfeaf06f0bed3",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/handoff/SKILL.md": {
+    "zh": "skills/productivity/handoff/SKILL.zh-CN.md",
+    "blob": "a224edc643a20ddb989f9bca1547440169159810",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/teach/GLOSSARY-FORMAT.md": {
+    "zh": "skills/productivity/teach/GLOSSARY-FORMAT.zh-CN.md",
+    "blob": "fdd7e366ad9760588b28981e42b3d3b561e56aca",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/teach/LEARNING-RECORD-FORMAT.md": {
+    "zh": "skills/productivity/teach/LEARNING-RECORD-FORMAT.zh-CN.md",
+    "blob": "953c61422776b47612c3c945920358ad7b5daee7",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/teach/MISSION-FORMAT.md": {
+    "zh": "skills/productivity/teach/MISSION-FORMAT.zh-CN.md",
+    "blob": "45250bb1bad70988bf381625931df64645e10246",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/teach/RESOURCES-FORMAT.md": {
+    "zh": "skills/productivity/teach/RESOURCES-FORMAT.zh-CN.md",
+    "blob": "18b588c8b6f96a50ae2352f264928c643d2782e4",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/teach/SKILL.md": {
+    "zh": "skills/productivity/teach/SKILL.zh-CN.md",
+    "blob": "493fa3bae0dada971c4dfb965790e56920b1dced",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/to-questionnaire/SKILL.md": {
+    "zh": "skills/productivity/to-questionnaire/SKILL.zh-CN.md",
+    "blob": "dadd0c00d6a350acaa15bb9ca1b96b20ead684ca",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/wait-what/SKILL.md": {
+    "zh": "skills/productivity/wait-what/SKILL.zh-CN.md",
+    "blob": "9b15cd1a7dda0854ca093e29e3e0de57e241b2ac",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/writing-for-agents/SKILL-MECHANICS.md": {
+    "zh": "skills/productivity/writing-for-agents/SKILL-MECHANICS.zh-CN.md",
+    "blob": "9cdbdb22aadc438755392216e75ad9a14cc9832e",
+    "commit": "a496f5513d4a"
+  },
+  "skills/productivity/writing-for-agents/SKILL.md": {
+    "zh": "skills/productivity/writing-for-agents/SKILL.zh-CN.md",
+    "blob": "a37608daf6e835e767deecfb498facecaaba82ba",
+    "commit": "a496f5513d4a"
+  }
+}
